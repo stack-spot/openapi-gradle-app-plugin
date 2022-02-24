@@ -1,0 +1,12 @@
+name: "openapi-gradle-app-plugin"
+description: A  llows generation of files based on openapi specifications
+types:
+  - app
+inputs:
+  - label: "Which framework would you like to use?"
+    type: text
+    name: framework
+    default: "spring"
+    items:
+      - "spring"
+      - "micronaut"

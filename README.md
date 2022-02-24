@@ -1,1 +1,1 @@
-# openapi-gradle-app-plugin
+# uxservices-kotlin-openapi-gradle-app-plugin
